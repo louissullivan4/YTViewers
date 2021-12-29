@@ -9,3 +9,6 @@ WHATS USED:
 - JSON requests
 - Youtube API
 - Tkinter
+
+
+*NOTE THIS WILL NOT WORK WITHOUT A VALID YOUTUBE APIKEY, add a valid key to a file called config.py as so API-KEY="{YOUR KEY HERE}"*
